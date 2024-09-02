@@ -25,6 +25,12 @@ git clone <repository_url>
 
 `unzip ./app/data/data.zip -d ./app/data/`
 
+### 5. Add model
+
+- Add model from [model-tokenizer](https://drive.google.com/file/d/1UdCpLJJdTnSY3cRReDMnyHWjvEmk9v0I/view?usp=sharing) to folder ```./app/my_finetuned_model/```
+
+- unzip model_tokenizer.zip
+
 ## How to run Service
 
 ### Start services
